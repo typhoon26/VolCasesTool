@@ -8,4 +8,4 @@ Most of these platforms only provide **ATM volatility adjustments**, but in prac
 
 #### 📥 Input Format
 
-The tool accepts input in the form of an `.xlsx` file containing **live streaming volatility data**.
+The tool accepts input in the form of an `.xlsx` file containing **live streaming volatility data**, as well as positions and SoD from a Server Generated Json file.
